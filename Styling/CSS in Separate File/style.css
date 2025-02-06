@@ -1,0 +1,23 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body
+{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #219214;
+}
+h1
+{  
+
+    color:#000;
+    border: 2px solid #fff;
+    padding: 2rem;
+}
