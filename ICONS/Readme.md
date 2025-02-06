@@ -1,10 +1,10 @@
 ## To Install
-```
+```jsx
 npm install react-icons --save
 ```
 ##Example
 
-```
+```jsx
 
 import { FaBeer } from 'react-icons/fa';
 
@@ -16,6 +16,6 @@ class Question extends React.Component {
 ```
 ## meterojs,gatsbyjs
 
-```
+```jsx
 npm install @react-icons/all-files --save
 ```
